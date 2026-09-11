@@ -45,3 +45,15 @@ Feel free to reach out if you want to discuss algorithms, software engineering, 
   <br>
   <i>Happy Coding! 💻✨</i>
 </div>
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [1870-minimum-speed-to-arrive-on-time](https://github.com/PrajwalKundar-2004/Leetcode-Solutions/tree/master/1870-minimum-speed-to-arrive-on-time) |
+## Binary Search
+|  |
+| ------- |
+| [1870-minimum-speed-to-arrive-on-time](https://github.com/PrajwalKundar-2004/Leetcode-Solutions/tree/master/1870-minimum-speed-to-arrive-on-time) |
+<!---LeetCode Topics End-->
