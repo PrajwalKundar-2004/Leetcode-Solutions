@@ -66,6 +66,7 @@ Feel free to reach out if you want to discuss algorithms, software engineering, 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/PrajwalKundar-2004/Leetcode-Solutions/tree/master/0002-add-two-numbers) |
 | [1248-count-number-of-nice-subarrays](https://github.com/PrajwalKundar-2004/Leetcode-Solutions/tree/master/1248-count-number-of-nice-subarrays) |
 ## Sliding Window
 |  |
@@ -85,4 +86,12 @@ Feel free to reach out if you want to discuss algorithms, software engineering, 
 | ------- |
 | [0503-next-greater-element-ii](https://github.com/PrajwalKundar-2004/Leetcode-Solutions/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/PrajwalKundar-2004/Leetcode-Solutions/tree/master/0739-daily-temperatures) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/PrajwalKundar-2004/Leetcode-Solutions/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/PrajwalKundar-2004/Leetcode-Solutions/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
