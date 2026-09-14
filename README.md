@@ -101,4 +101,8 @@ Feel free to reach out if you want to discuss algorithms, software engineering, 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/PrajwalKundar-2004/Leetcode-Solutions/tree/master/0002-add-two-numbers) |
+## String
+|  |
+| ------- |
+| [0058-length-of-last-word](https://github.com/PrajwalKundar-2004/Leetcode-Solutions/tree/master/0058-length-of-last-word) |
 <!---LeetCode Topics End-->
