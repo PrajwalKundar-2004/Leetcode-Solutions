@@ -51,6 +51,7 @@ Feel free to reach out if you want to discuss algorithms, software engineering, 
 ## Array
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/PrajwalKundar-2004/Leetcode-Solutions/tree/master/0239-sliding-window-maximum) |
 | [0503-next-greater-element-ii](https://github.com/PrajwalKundar-2004/Leetcode-Solutions/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/PrajwalKundar-2004/Leetcode-Solutions/tree/master/0739-daily-temperatures) |
 | [1004-max-consecutive-ones-iii](https://github.com/PrajwalKundar-2004/Leetcode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
@@ -75,6 +76,7 @@ Feel free to reach out if you want to discuss algorithms, software engineering, 
 ## Sliding Window
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/PrajwalKundar-2004/Leetcode-Solutions/tree/master/0239-sliding-window-maximum) |
 | [1004-max-consecutive-ones-iii](https://github.com/PrajwalKundar-2004/Leetcode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/PrajwalKundar-2004/Leetcode-Solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/PrajwalKundar-2004/Leetcode-Solutions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -105,4 +107,20 @@ Feel free to reach out if you want to discuss algorithms, software engineering, 
 |  |
 | ------- |
 | [0058-length-of-last-word](https://github.com/PrajwalKundar-2004/Leetcode-Solutions/tree/master/0058-length-of-last-word) |
+## Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/PrajwalKundar-2004/Leetcode-Solutions/tree/master/0239-sliding-window-maximum) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/PrajwalKundar-2004/Leetcode-Solutions/tree/master/0239-sliding-window-maximum) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/PrajwalKundar-2004/Leetcode-Solutions/tree/master/0239-sliding-window-maximum) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/PrajwalKundar-2004/Leetcode-Solutions/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
