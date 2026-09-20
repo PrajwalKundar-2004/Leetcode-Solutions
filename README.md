@@ -56,6 +56,7 @@ Feel free to reach out if you want to discuss algorithms, software engineering, 
 | [0209-minimum-size-subarray-sum](https://github.com/PrajwalKundar-2004/Leetcode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0239-sliding-window-maximum](https://github.com/PrajwalKundar-2004/Leetcode-Solutions/tree/master/0239-sliding-window-maximum) |
 | [0503-next-greater-element-ii](https://github.com/PrajwalKundar-2004/Leetcode-Solutions/tree/master/0503-next-greater-element-ii) |
+| [0523-continuous-subarray-sum](https://github.com/PrajwalKundar-2004/Leetcode-Solutions/tree/master/0523-continuous-subarray-sum) |
 | [0724-find-pivot-index](https://github.com/PrajwalKundar-2004/Leetcode-Solutions/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/PrajwalKundar-2004/Leetcode-Solutions/tree/master/0739-daily-temperatures) |
 | [1004-max-consecutive-ones-iii](https://github.com/PrajwalKundar-2004/Leetcode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
@@ -75,12 +76,14 @@ Feel free to reach out if you want to discuss algorithms, software engineering, 
 | [0141-linked-list-cycle](https://github.com/PrajwalKundar-2004/Leetcode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/PrajwalKundar-2004/Leetcode-Solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/PrajwalKundar-2004/Leetcode-Solutions/tree/master/0160-intersection-of-two-linked-lists) |
+| [0523-continuous-subarray-sum](https://github.com/PrajwalKundar-2004/Leetcode-Solutions/tree/master/0523-continuous-subarray-sum) |
 | [1248-count-number-of-nice-subarrays](https://github.com/PrajwalKundar-2004/Leetcode-Solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/PrajwalKundar-2004/Leetcode-Solutions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Math
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/PrajwalKundar-2004/Leetcode-Solutions/tree/master/0002-add-two-numbers) |
+| [0523-continuous-subarray-sum](https://github.com/PrajwalKundar-2004/Leetcode-Solutions/tree/master/0523-continuous-subarray-sum) |
 | [1248-count-number-of-nice-subarrays](https://github.com/PrajwalKundar-2004/Leetcode-Solutions/tree/master/1248-count-number-of-nice-subarrays) |
 ## Sliding Window
 |  |
@@ -94,6 +97,7 @@ Feel free to reach out if you want to discuss algorithms, software engineering, 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/PrajwalKundar-2004/Leetcode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
+| [0523-continuous-subarray-sum](https://github.com/PrajwalKundar-2004/Leetcode-Solutions/tree/master/0523-continuous-subarray-sum) |
 | [0724-find-pivot-index](https://github.com/PrajwalKundar-2004/Leetcode-Solutions/tree/master/0724-find-pivot-index) |
 | [1004-max-consecutive-ones-iii](https://github.com/PrajwalKundar-2004/Leetcode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/PrajwalKundar-2004/Leetcode-Solutions/tree/master/1248-count-number-of-nice-subarrays) |
@@ -163,4 +167,8 @@ Feel free to reach out if you want to discuss algorithms, software engineering, 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/PrajwalKundar-2004/Leetcode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/PrajwalKundar-2004/Leetcode-Solutions/tree/master/0142-linked-list-cycle-ii) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0523-continuous-subarray-sum](https://github.com/PrajwalKundar-2004/Leetcode-Solutions/tree/master/0523-continuous-subarray-sum) |
 <!---LeetCode Topics End-->
