@@ -63,6 +63,7 @@ Feel free to reach out if you want to discuss algorithms, software engineering, 
 | [1004-max-consecutive-ones-iii](https://github.com/PrajwalKundar-2004/Leetcode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/PrajwalKundar-2004/Leetcode-Solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/PrajwalKundar-2004/Leetcode-Solutions/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/PrajwalKundar-2004/Leetcode-Solutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/PrajwalKundar-2004/Leetcode-Solutions/tree/master/1870-minimum-speed-to-arrive-on-time) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/PrajwalKundar-2004/Leetcode-Solutions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Binary Search
