@@ -217,4 +217,5 @@ Feel free to reach out if you want to discuss algorithms, software engineering, 
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/PrajwalKundar-2004/Leetcode-Solutions/tree/master/0191-number-of-1-bits) |
+| [0693-binary-number-with-alternating-bits](https://github.com/PrajwalKundar-2004/Leetcode-Solutions/tree/master/0693-binary-number-with-alternating-bits) |
 <!---LeetCode Topics End-->
