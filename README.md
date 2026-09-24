@@ -52,6 +52,7 @@ Feel free to reach out if you want to discuss algorithms, software engineering, 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/PrajwalKundar-2004/Leetcode-Solutions/tree/master/0014-longest-common-prefix) |
+| [0041-first-missing-positive](https://github.com/PrajwalKundar-2004/Leetcode-Solutions/tree/master/0041-first-missing-positive) |
 | [0053-maximum-subarray](https://github.com/PrajwalKundar-2004/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
 | [0209-minimum-size-subarray-sum](https://github.com/PrajwalKundar-2004/Leetcode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0239-sliding-window-maximum](https://github.com/PrajwalKundar-2004/Leetcode-Solutions/tree/master/0239-sliding-window-maximum) |
@@ -78,6 +79,7 @@ Feel free to reach out if you want to discuss algorithms, software engineering, 
 ## Hash Table
 |  |
 | ------- |
+| [0041-first-missing-positive](https://github.com/PrajwalKundar-2004/Leetcode-Solutions/tree/master/0041-first-missing-positive) |
 | [0141-linked-list-cycle](https://github.com/PrajwalKundar-2004/Leetcode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/PrajwalKundar-2004/Leetcode-Solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/PrajwalKundar-2004/Leetcode-Solutions/tree/master/0160-intersection-of-two-linked-lists) |
