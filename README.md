@@ -93,6 +93,7 @@ Feel free to reach out if you want to discuss algorithms, software engineering, 
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/PrajwalKundar-2004/Leetcode-Solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/PrajwalKundar-2004/Leetcode-Solutions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3668-restore-finishing-order](https://github.com/PrajwalKundar-2004/Leetcode-Solutions/tree/master/3668-restore-finishing-order) |
+| [3945-digit-frequency-score](https://github.com/PrajwalKundar-2004/Leetcode-Solutions/tree/master/3945-digit-frequency-score) |
 ## Math
 |  |
 | ------- |
@@ -101,6 +102,7 @@ Feel free to reach out if you want to discuss algorithms, software engineering, 
 | [0523-continuous-subarray-sum](https://github.com/PrajwalKundar-2004/Leetcode-Solutions/tree/master/0523-continuous-subarray-sum) |
 | [1248-count-number-of-nice-subarrays](https://github.com/PrajwalKundar-2004/Leetcode-Solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/PrajwalKundar-2004/Leetcode-Solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3945-digit-frequency-score](https://github.com/PrajwalKundar-2004/Leetcode-Solutions/tree/master/3945-digit-frequency-score) |
 ## Sliding Window
 |  |
 | ------- |
