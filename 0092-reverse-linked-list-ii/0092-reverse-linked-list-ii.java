@@ -25,16 +25,12 @@ class Solution {
             left++;
             right--;
         }
-        ListNode dummy=new ListNode(0);
-        ListNode ans=dummy;
-        ListNode newnode;
+        temp=head;
         int i=0;
-        while(i<list.size()){
-            newnode=new ListNode(list.get(i));
-            dummy.next=newnode;
-            dummy=dummy.next;
-            i++;
+        while(temp!=null){
+            temp.val=list.get(i++);
+            temp=temp.next;
         }
-        return ans.next;
+        return head;
     }
 }
