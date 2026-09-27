@@ -132,6 +132,7 @@ Feel free to reach out if you want to discuss algorithms, software engineering, 
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/PrajwalKundar-2004/Leetcode-Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1019-next-greater-node-in-linked-list](https://github.com/PrajwalKundar-2004/Leetcode-Solutions/tree/master/1019-next-greater-node-in-linked-list) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/PrajwalKundar-2004/Leetcode-Solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/PrajwalKundar-2004/Leetcode-Solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2487-remove-nodes-from-linked-list](https://github.com/PrajwalKundar-2004/Leetcode-Solutions/tree/master/2487-remove-nodes-from-linked-list) |
 ## Monotonic Stack
 |  |
@@ -152,6 +153,7 @@ Feel free to reach out if you want to discuss algorithms, software engineering, 
 | [0160-intersection-of-two-linked-lists](https://github.com/PrajwalKundar-2004/Leetcode-Solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0445-add-two-numbers-ii](https://github.com/PrajwalKundar-2004/Leetcode-Solutions/tree/master/0445-add-two-numbers-ii) |
 | [1019-next-greater-node-in-linked-list](https://github.com/PrajwalKundar-2004/Leetcode-Solutions/tree/master/1019-next-greater-node-in-linked-list) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/PrajwalKundar-2004/Leetcode-Solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2487-remove-nodes-from-linked-list](https://github.com/PrajwalKundar-2004/Leetcode-Solutions/tree/master/2487-remove-nodes-from-linked-list) |
 ## Recursion
 |  |
@@ -210,6 +212,7 @@ Feel free to reach out if you want to discuss algorithms, software engineering, 
 | [0141-linked-list-cycle](https://github.com/PrajwalKundar-2004/Leetcode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/PrajwalKundar-2004/Leetcode-Solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/PrajwalKundar-2004/Leetcode-Solutions/tree/master/0160-intersection-of-two-linked-lists) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/PrajwalKundar-2004/Leetcode-Solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
