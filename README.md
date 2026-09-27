@@ -82,6 +82,7 @@ Feel free to reach out if you want to discuss algorithms, software engineering, 
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/PrajwalKundar-2004/Leetcode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0041-first-missing-positive](https://github.com/PrajwalKundar-2004/Leetcode-Solutions/tree/master/0041-first-missing-positive) |
 | [0141-linked-list-cycle](https://github.com/PrajwalKundar-2004/Leetcode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/PrajwalKundar-2004/Leetcode-Solutions/tree/master/0142-linked-list-cycle-ii) |
@@ -106,6 +107,7 @@ Feel free to reach out if you want to discuss algorithms, software engineering, 
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/PrajwalKundar-2004/Leetcode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/PrajwalKundar-2004/Leetcode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0239-sliding-window-maximum](https://github.com/PrajwalKundar-2004/Leetcode-Solutions/tree/master/0239-sliding-window-maximum) |
 | [0713-subarray-product-less-than-k](https://github.com/PrajwalKundar-2004/Leetcode-Solutions/tree/master/0713-subarray-product-less-than-k) |
@@ -158,6 +160,7 @@ Feel free to reach out if you want to discuss algorithms, software engineering, 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/PrajwalKundar-2004/Leetcode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0014-longest-common-prefix](https://github.com/PrajwalKundar-2004/Leetcode-Solutions/tree/master/0014-longest-common-prefix) |
 | [0058-length-of-last-word](https://github.com/PrajwalKundar-2004/Leetcode-Solutions/tree/master/0058-length-of-last-word) |
 | [0451-sort-characters-by-frequency](https://github.com/PrajwalKundar-2004/Leetcode-Solutions/tree/master/0451-sort-characters-by-frequency) |
