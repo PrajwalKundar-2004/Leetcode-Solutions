@@ -127,6 +127,7 @@ Feel free to reach out if you want to discuss algorithms, software engineering, 
 ## Stack
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/PrajwalKundar-2004/Leetcode-Solutions/tree/master/0155-min-stack) |
 | [0445-add-two-numbers-ii](https://github.com/PrajwalKundar-2004/Leetcode-Solutions/tree/master/0445-add-two-numbers-ii) |
 | [0503-next-greater-element-ii](https://github.com/PrajwalKundar-2004/Leetcode-Solutions/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/PrajwalKundar-2004/Leetcode-Solutions/tree/master/0739-daily-temperatures) |
@@ -286,4 +287,8 @@ Feel free to reach out if you want to discuss algorithms, software engineering, 
 | ------- |
 | [0844-backspace-string-compare](https://github.com/PrajwalKundar-2004/Leetcode-Solutions/tree/master/0844-backspace-string-compare) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/PrajwalKundar-2004/Leetcode-Solutions/tree/master/2696-minimum-string-length-after-removing-substrings) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/PrajwalKundar-2004/Leetcode-Solutions/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
