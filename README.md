@@ -66,6 +66,7 @@ Feel free to reach out if you want to discuss algorithms, software engineering, 
 | [1004-max-consecutive-ones-iii](https://github.com/PrajwalKundar-2004/Leetcode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1019-next-greater-node-in-linked-list](https://github.com/PrajwalKundar-2004/Leetcode-Solutions/tree/master/1019-next-greater-node-in-linked-list) |
 | [1248-count-number-of-nice-subarrays](https://github.com/PrajwalKundar-2004/Leetcode-Solutions/tree/master/1248-count-number-of-nice-subarrays) |
+| [1381-design-a-stack-with-increment-operation](https://github.com/PrajwalKundar-2004/Leetcode-Solutions/tree/master/1381-design-a-stack-with-increment-operation) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/PrajwalKundar-2004/Leetcode-Solutions/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/PrajwalKundar-2004/Leetcode-Solutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/PrajwalKundar-2004/Leetcode-Solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
@@ -136,6 +137,7 @@ Feel free to reach out if you want to discuss algorithms, software engineering, 
 | [1019-next-greater-node-in-linked-list](https://github.com/PrajwalKundar-2004/Leetcode-Solutions/tree/master/1019-next-greater-node-in-linked-list) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/PrajwalKundar-2004/Leetcode-Solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/PrajwalKundar-2004/Leetcode-Solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+| [1381-design-a-stack-with-increment-operation](https://github.com/PrajwalKundar-2004/Leetcode-Solutions/tree/master/1381-design-a-stack-with-increment-operation) |
 | [1544-make-the-string-great](https://github.com/PrajwalKundar-2004/Leetcode-Solutions/tree/master/1544-make-the-string-great) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/PrajwalKundar-2004/Leetcode-Solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2487-remove-nodes-from-linked-list](https://github.com/PrajwalKundar-2004/Leetcode-Solutions/tree/master/2487-remove-nodes-from-linked-list) |
@@ -291,4 +293,5 @@ Feel free to reach out if you want to discuss algorithms, software engineering, 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/PrajwalKundar-2004/Leetcode-Solutions/tree/master/0155-min-stack) |
+| [1381-design-a-stack-with-increment-operation](https://github.com/PrajwalKundar-2004/Leetcode-Solutions/tree/master/1381-design-a-stack-with-increment-operation) |
 <!---LeetCode Topics End-->
