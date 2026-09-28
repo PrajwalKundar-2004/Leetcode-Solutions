@@ -138,6 +138,7 @@ Feel free to reach out if you want to discuss algorithms, software engineering, 
 | [1544-make-the-string-great](https://github.com/PrajwalKundar-2004/Leetcode-Solutions/tree/master/1544-make-the-string-great) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/PrajwalKundar-2004/Leetcode-Solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2487-remove-nodes-from-linked-list](https://github.com/PrajwalKundar-2004/Leetcode-Solutions/tree/master/2487-remove-nodes-from-linked-list) |
+| [2696-minimum-string-length-after-removing-substrings](https://github.com/PrajwalKundar-2004/Leetcode-Solutions/tree/master/2696-minimum-string-length-after-removing-substrings) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -178,6 +179,7 @@ Feel free to reach out if you want to discuss algorithms, software engineering, 
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/PrajwalKundar-2004/Leetcode-Solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1544-make-the-string-great](https://github.com/PrajwalKundar-2004/Leetcode-Solutions/tree/master/1544-make-the-string-great) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/PrajwalKundar-2004/Leetcode-Solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [2696-minimum-string-length-after-removing-substrings](https://github.com/PrajwalKundar-2004/Leetcode-Solutions/tree/master/2696-minimum-string-length-after-removing-substrings) |
 ## Queue
 |  |
 | ------- |
@@ -283,4 +285,5 @@ Feel free to reach out if you want to discuss algorithms, software engineering, 
 |  |
 | ------- |
 | [0844-backspace-string-compare](https://github.com/PrajwalKundar-2004/Leetcode-Solutions/tree/master/0844-backspace-string-compare) |
+| [2696-minimum-string-length-after-removing-substrings](https://github.com/PrajwalKundar-2004/Leetcode-Solutions/tree/master/2696-minimum-string-length-after-removing-substrings) |
 <!---LeetCode Topics End-->
