@@ -134,6 +134,7 @@ Feel free to reach out if you want to discuss algorithms, software engineering, 
 | [0503-next-greater-element-ii](https://github.com/PrajwalKundar-2004/Leetcode-Solutions/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/PrajwalKundar-2004/Leetcode-Solutions/tree/master/0739-daily-temperatures) |
 | [0844-backspace-string-compare](https://github.com/PrajwalKundar-2004/Leetcode-Solutions/tree/master/0844-backspace-string-compare) |
+| [0856-score-of-parentheses](https://github.com/PrajwalKundar-2004/Leetcode-Solutions/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/PrajwalKundar-2004/Leetcode-Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1019-next-greater-node-in-linked-list](https://github.com/PrajwalKundar-2004/Leetcode-Solutions/tree/master/1019-next-greater-node-in-linked-list) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/PrajwalKundar-2004/Leetcode-Solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -178,6 +179,7 @@ Feel free to reach out if you want to discuss algorithms, software engineering, 
 | [0058-length-of-last-word](https://github.com/PrajwalKundar-2004/Leetcode-Solutions/tree/master/0058-length-of-last-word) |
 | [0451-sort-characters-by-frequency](https://github.com/PrajwalKundar-2004/Leetcode-Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0844-backspace-string-compare](https://github.com/PrajwalKundar-2004/Leetcode-Solutions/tree/master/0844-backspace-string-compare) |
+| [0856-score-of-parentheses](https://github.com/PrajwalKundar-2004/Leetcode-Solutions/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/PrajwalKundar-2004/Leetcode-Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/PrajwalKundar-2004/Leetcode-Solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/PrajwalKundar-2004/Leetcode-Solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -265,6 +267,7 @@ Feel free to reach out if you want to discuss algorithms, software engineering, 
 ## Bracket Sequences
 |  |
 | ------- |
+| [0856-score-of-parentheses](https://github.com/PrajwalKundar-2004/Leetcode-Solutions/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/PrajwalKundar-2004/Leetcode-Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/PrajwalKundar-2004/Leetcode-Solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 ## Bit Manipulation
