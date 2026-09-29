@@ -129,6 +129,7 @@ Feel free to reach out if you want to discuss algorithms, software engineering, 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/PrajwalKundar-2004/Leetcode-Solutions/tree/master/0155-min-stack) |
+| [0232-implement-queue-using-stacks](https://github.com/PrajwalKundar-2004/Leetcode-Solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0445-add-two-numbers-ii](https://github.com/PrajwalKundar-2004/Leetcode-Solutions/tree/master/0445-add-two-numbers-ii) |
 | [0503-next-greater-element-ii](https://github.com/PrajwalKundar-2004/Leetcode-Solutions/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/PrajwalKundar-2004/Leetcode-Solutions/tree/master/0739-daily-temperatures) |
@@ -186,6 +187,7 @@ Feel free to reach out if you want to discuss algorithms, software engineering, 
 ## Queue
 |  |
 | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/PrajwalKundar-2004/Leetcode-Solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0239-sliding-window-maximum](https://github.com/PrajwalKundar-2004/Leetcode-Solutions/tree/master/0239-sliding-window-maximum) |
 ## Heap (Priority Queue)
 |  |
@@ -293,5 +295,6 @@ Feel free to reach out if you want to discuss algorithms, software engineering, 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/PrajwalKundar-2004/Leetcode-Solutions/tree/master/0155-min-stack) |
+| [0232-implement-queue-using-stacks](https://github.com/PrajwalKundar-2004/Leetcode-Solutions/tree/master/0232-implement-queue-using-stacks) |
 | [1381-design-a-stack-with-increment-operation](https://github.com/PrajwalKundar-2004/Leetcode-Solutions/tree/master/1381-design-a-stack-with-increment-operation) |
 <!---LeetCode Topics End-->
