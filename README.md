@@ -128,6 +128,7 @@ Feel free to reach out if you want to discuss algorithms, software engineering, 
 ## Stack
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/PrajwalKundar-2004/Leetcode-Solutions/tree/master/0032-longest-valid-parentheses) |
 | [0155-min-stack](https://github.com/PrajwalKundar-2004/Leetcode-Solutions/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/PrajwalKundar-2004/Leetcode-Solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0445-add-two-numbers-ii](https://github.com/PrajwalKundar-2004/Leetcode-Solutions/tree/master/0445-add-two-numbers-ii) |
@@ -176,6 +177,7 @@ Feel free to reach out if you want to discuss algorithms, software engineering, 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/PrajwalKundar-2004/Leetcode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0014-longest-common-prefix](https://github.com/PrajwalKundar-2004/Leetcode-Solutions/tree/master/0014-longest-common-prefix) |
+| [0032-longest-valid-parentheses](https://github.com/PrajwalKundar-2004/Leetcode-Solutions/tree/master/0032-longest-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/PrajwalKundar-2004/Leetcode-Solutions/tree/master/0058-length-of-last-word) |
 | [0451-sort-characters-by-frequency](https://github.com/PrajwalKundar-2004/Leetcode-Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0844-backspace-string-compare](https://github.com/PrajwalKundar-2004/Leetcode-Solutions/tree/master/0844-backspace-string-compare) |
@@ -220,6 +222,7 @@ Feel free to reach out if you want to discuss algorithms, software engineering, 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/PrajwalKundar-2004/Leetcode-Solutions/tree/master/0032-longest-valid-parentheses) |
 | [0053-maximum-subarray](https://github.com/PrajwalKundar-2004/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/PrajwalKundar-2004/Leetcode-Solutions/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 ## Two Pointers
@@ -267,6 +270,7 @@ Feel free to reach out if you want to discuss algorithms, software engineering, 
 ## Bracket Sequences
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/PrajwalKundar-2004/Leetcode-Solutions/tree/master/0032-longest-valid-parentheses) |
 | [0856-score-of-parentheses](https://github.com/PrajwalKundar-2004/Leetcode-Solutions/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/PrajwalKundar-2004/Leetcode-Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/PrajwalKundar-2004/Leetcode-Solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
