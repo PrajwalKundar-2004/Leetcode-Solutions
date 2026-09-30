@@ -53,6 +53,7 @@ Feel free to reach out if you want to discuss algorithms, software engineering, 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/PrajwalKundar-2004/Leetcode-Solutions/tree/master/0014-longest-common-prefix) |
 | [0041-first-missing-positive](https://github.com/PrajwalKundar-2004/Leetcode-Solutions/tree/master/0041-first-missing-positive) |
+| [0042-trapping-rain-water](https://github.com/PrajwalKundar-2004/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/PrajwalKundar-2004/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
 | [0137-single-number-ii](https://github.com/PrajwalKundar-2004/Leetcode-Solutions/tree/master/0137-single-number-ii) |
 | [0209-minimum-size-subarray-sum](https://github.com/PrajwalKundar-2004/Leetcode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
@@ -129,6 +130,7 @@ Feel free to reach out if you want to discuss algorithms, software engineering, 
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/PrajwalKundar-2004/Leetcode-Solutions/tree/master/0032-longest-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/PrajwalKundar-2004/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0155-min-stack](https://github.com/PrajwalKundar-2004/Leetcode-Solutions/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/PrajwalKundar-2004/Leetcode-Solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0445-add-two-numbers-ii](https://github.com/PrajwalKundar-2004/Leetcode-Solutions/tree/master/0445-add-two-numbers-ii) |
@@ -148,6 +150,7 @@ Feel free to reach out if you want to discuss algorithms, software engineering, 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/PrajwalKundar-2004/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0503-next-greater-element-ii](https://github.com/PrajwalKundar-2004/Leetcode-Solutions/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/PrajwalKundar-2004/Leetcode-Solutions/tree/master/0739-daily-temperatures) |
 | [1019-next-greater-node-in-linked-list](https://github.com/PrajwalKundar-2004/Leetcode-Solutions/tree/master/1019-next-greater-node-in-linked-list) |
@@ -223,11 +226,13 @@ Feel free to reach out if you want to discuss algorithms, software engineering, 
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/PrajwalKundar-2004/Leetcode-Solutions/tree/master/0032-longest-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/PrajwalKundar-2004/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/PrajwalKundar-2004/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/PrajwalKundar-2004/Leetcode-Solutions/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 ## Two Pointers
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/PrajwalKundar-2004/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/PrajwalKundar-2004/Leetcode-Solutions/tree/master/0061-rotate-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/PrajwalKundar-2004/Leetcode-Solutions/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0141-linked-list-cycle](https://github.com/PrajwalKundar-2004/Leetcode-Solutions/tree/master/0141-linked-list-cycle) |
