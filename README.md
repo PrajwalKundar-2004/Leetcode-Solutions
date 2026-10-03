@@ -63,6 +63,7 @@ Feel free to reach out if you want to discuss algorithms, software engineering, 
 | [0503-next-greater-element-ii](https://github.com/PrajwalKundar-2004/Leetcode-Solutions/tree/master/0503-next-greater-element-ii) |
 | [0523-continuous-subarray-sum](https://github.com/PrajwalKundar-2004/Leetcode-Solutions/tree/master/0523-continuous-subarray-sum) |
 | [0622-design-circular-queue](https://github.com/PrajwalKundar-2004/Leetcode-Solutions/tree/master/0622-design-circular-queue) |
+| [0641-design-circular-deque](https://github.com/PrajwalKundar-2004/Leetcode-Solutions/tree/master/0641-design-circular-deque) |
 | [0713-subarray-product-less-than-k](https://github.com/PrajwalKundar-2004/Leetcode-Solutions/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/PrajwalKundar-2004/Leetcode-Solutions/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/PrajwalKundar-2004/Leetcode-Solutions/tree/master/0739-daily-temperatures) |
@@ -178,6 +179,7 @@ Feel free to reach out if you want to discuss algorithms, software engineering, 
 | [0160-intersection-of-two-linked-lists](https://github.com/PrajwalKundar-2004/Leetcode-Solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0445-add-two-numbers-ii](https://github.com/PrajwalKundar-2004/Leetcode-Solutions/tree/master/0445-add-two-numbers-ii) |
 | [0622-design-circular-queue](https://github.com/PrajwalKundar-2004/Leetcode-Solutions/tree/master/0622-design-circular-queue) |
+| [0641-design-circular-deque](https://github.com/PrajwalKundar-2004/Leetcode-Solutions/tree/master/0641-design-circular-deque) |
 | [1019-next-greater-node-in-linked-list](https://github.com/PrajwalKundar-2004/Leetcode-Solutions/tree/master/1019-next-greater-node-in-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/PrajwalKundar-2004/Leetcode-Solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2487-remove-nodes-from-linked-list](https://github.com/PrajwalKundar-2004/Leetcode-Solutions/tree/master/2487-remove-nodes-from-linked-list) |
@@ -210,6 +212,7 @@ Feel free to reach out if you want to discuss algorithms, software engineering, 
 | [0232-implement-queue-using-stacks](https://github.com/PrajwalKundar-2004/Leetcode-Solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0239-sliding-window-maximum](https://github.com/PrajwalKundar-2004/Leetcode-Solutions/tree/master/0239-sliding-window-maximum) |
 | [0622-design-circular-queue](https://github.com/PrajwalKundar-2004/Leetcode-Solutions/tree/master/0622-design-circular-queue) |
+| [0641-design-circular-deque](https://github.com/PrajwalKundar-2004/Leetcode-Solutions/tree/master/0641-design-circular-deque) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -328,6 +331,7 @@ Feel free to reach out if you want to discuss algorithms, software engineering, 
 | [0155-min-stack](https://github.com/PrajwalKundar-2004/Leetcode-Solutions/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/PrajwalKundar-2004/Leetcode-Solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0622-design-circular-queue](https://github.com/PrajwalKundar-2004/Leetcode-Solutions/tree/master/0622-design-circular-queue) |
+| [0641-design-circular-deque](https://github.com/PrajwalKundar-2004/Leetcode-Solutions/tree/master/0641-design-circular-deque) |
 | [1381-design-a-stack-with-increment-operation](https://github.com/PrajwalKundar-2004/Leetcode-Solutions/tree/master/1381-design-a-stack-with-increment-operation) |
 ## Memoization
 |  |
