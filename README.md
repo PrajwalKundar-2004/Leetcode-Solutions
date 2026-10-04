@@ -57,6 +57,7 @@ Feel free to reach out if you want to discuss algorithms, software engineering, 
 | [0042-trapping-rain-water](https://github.com/PrajwalKundar-2004/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/PrajwalKundar-2004/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
 | [0137-single-number-ii](https://github.com/PrajwalKundar-2004/Leetcode-Solutions/tree/master/0137-single-number-ii) |
+| [0152-maximum-product-subarray](https://github.com/PrajwalKundar-2004/Leetcode-Solutions/tree/master/0152-maximum-product-subarray) |
 | [0209-minimum-size-subarray-sum](https://github.com/PrajwalKundar-2004/Leetcode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0239-sliding-window-maximum](https://github.com/PrajwalKundar-2004/Leetcode-Solutions/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/PrajwalKundar-2004/Leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
@@ -254,6 +255,7 @@ Feel free to reach out if you want to discuss algorithms, software engineering, 
 | [0053-maximum-subarray](https://github.com/PrajwalKundar-2004/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/PrajwalKundar-2004/Leetcode-Solutions/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/PrajwalKundar-2004/Leetcode-Solutions/tree/master/0070-climbing-stairs) |
+| [0152-maximum-product-subarray](https://github.com/PrajwalKundar-2004/Leetcode-Solutions/tree/master/0152-maximum-product-subarray) |
 | [0509-fibonacci-number](https://github.com/PrajwalKundar-2004/Leetcode-Solutions/tree/master/0509-fibonacci-number) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/PrajwalKundar-2004/Leetcode-Solutions/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 ## Two Pointers
