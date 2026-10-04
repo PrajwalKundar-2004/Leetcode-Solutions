@@ -4,8 +4,8 @@ class Solution {
         map.put(0,1);
         int count=0;
         int prefix=0,rem;
-        for(int i=0;i<nums.length;i++){
-            prefix+=nums[i];
+        for(int num:nums){
+            prefix+=num;
             rem=prefix%k;
             if(rem<0){
                 rem=rem+k;
