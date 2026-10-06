@@ -120,6 +120,7 @@ Feel free to reach out if you want to discuss algorithms, software engineering, 
 | [0002-add-two-numbers](https://github.com/PrajwalKundar-2004/Leetcode-Solutions/tree/master/0002-add-two-numbers) |
 | [0062-unique-paths](https://github.com/PrajwalKundar-2004/Leetcode-Solutions/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/PrajwalKundar-2004/Leetcode-Solutions/tree/master/0070-climbing-stairs) |
+| [0342-power-of-four](https://github.com/PrajwalKundar-2004/Leetcode-Solutions/tree/master/0342-power-of-four) |
 | [0445-add-two-numbers-ii](https://github.com/PrajwalKundar-2004/Leetcode-Solutions/tree/master/0445-add-two-numbers-ii) |
 | [0509-fibonacci-number](https://github.com/PrajwalKundar-2004/Leetcode-Solutions/tree/master/0509-fibonacci-number) |
 | [0523-continuous-subarray-sum](https://github.com/PrajwalKundar-2004/Leetcode-Solutions/tree/master/0523-continuous-subarray-sum) |
@@ -199,6 +200,7 @@ Feel free to reach out if you want to discuss algorithms, software engineering, 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/PrajwalKundar-2004/Leetcode-Solutions/tree/master/0002-add-two-numbers) |
+| [0342-power-of-four](https://github.com/PrajwalKundar-2004/Leetcode-Solutions/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/PrajwalKundar-2004/Leetcode-Solutions/tree/master/0509-fibonacci-number) |
 | [2487-remove-nodes-from-linked-list](https://github.com/PrajwalKundar-2004/Leetcode-Solutions/tree/master/2487-remove-nodes-from-linked-list) |
 ## String
@@ -325,6 +327,7 @@ Feel free to reach out if you want to discuss algorithms, software engineering, 
 | ------- |
 | [0137-single-number-ii](https://github.com/PrajwalKundar-2004/Leetcode-Solutions/tree/master/0137-single-number-ii) |
 | [0191-number-of-1-bits](https://github.com/PrajwalKundar-2004/Leetcode-Solutions/tree/master/0191-number-of-1-bits) |
+| [0342-power-of-four](https://github.com/PrajwalKundar-2004/Leetcode-Solutions/tree/master/0342-power-of-four) |
 | [0693-binary-number-with-alternating-bits](https://github.com/PrajwalKundar-2004/Leetcode-Solutions/tree/master/0693-binary-number-with-alternating-bits) |
 ## Database
 |  |
