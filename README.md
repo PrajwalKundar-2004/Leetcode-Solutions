@@ -63,6 +63,7 @@ Feel free to reach out if you want to discuss algorithms, software engineering, 
 | [0239-sliding-window-maximum](https://github.com/PrajwalKundar-2004/Leetcode-Solutions/tree/master/0239-sliding-window-maximum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/PrajwalKundar-2004/Leetcode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0347-top-k-frequent-elements](https://github.com/PrajwalKundar-2004/Leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
+| [0349-intersection-of-two-arrays](https://github.com/PrajwalKundar-2004/Leetcode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0503-next-greater-element-ii](https://github.com/PrajwalKundar-2004/Leetcode-Solutions/tree/master/0503-next-greater-element-ii) |
 | [0523-continuous-subarray-sum](https://github.com/PrajwalKundar-2004/Leetcode-Solutions/tree/master/0523-continuous-subarray-sum) |
 | [0622-design-circular-queue](https://github.com/PrajwalKundar-2004/Leetcode-Solutions/tree/master/0622-design-circular-queue) |
@@ -92,6 +93,7 @@ Feel free to reach out if you want to discuss algorithms, software engineering, 
 | [0074-search-a-2d-matrix](https://github.com/PrajwalKundar-2004/Leetcode-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0209-minimum-size-subarray-sum](https://github.com/PrajwalKundar-2004/Leetcode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/PrajwalKundar-2004/Leetcode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
+| [0349-intersection-of-two-arrays](https://github.com/PrajwalKundar-2004/Leetcode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0713-subarray-product-less-than-k](https://github.com/PrajwalKundar-2004/Leetcode-Solutions/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/PrajwalKundar-2004/Leetcode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/PrajwalKundar-2004/Leetcode-Solutions/tree/master/1870-minimum-speed-to-arrive-on-time) |
@@ -104,6 +106,7 @@ Feel free to reach out if you want to discuss algorithms, software engineering, 
 | [0142-linked-list-cycle-ii](https://github.com/PrajwalKundar-2004/Leetcode-Solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/PrajwalKundar-2004/Leetcode-Solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0347-top-k-frequent-elements](https://github.com/PrajwalKundar-2004/Leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
+| [0349-intersection-of-two-arrays](https://github.com/PrajwalKundar-2004/Leetcode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0451-sort-characters-by-frequency](https://github.com/PrajwalKundar-2004/Leetcode-Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0523-continuous-subarray-sum](https://github.com/PrajwalKundar-2004/Leetcode-Solutions/tree/master/0523-continuous-subarray-sum) |
 | [0904-fruit-into-baskets](https://github.com/PrajwalKundar-2004/Leetcode-Solutions/tree/master/0904-fruit-into-baskets) |
@@ -279,6 +282,7 @@ Feel free to reach out if you want to discuss algorithms, software engineering, 
 | [0141-linked-list-cycle](https://github.com/PrajwalKundar-2004/Leetcode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/PrajwalKundar-2004/Leetcode-Solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/PrajwalKundar-2004/Leetcode-Solutions/tree/master/0160-intersection-of-two-linked-lists) |
+| [0349-intersection-of-two-arrays](https://github.com/PrajwalKundar-2004/Leetcode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0844-backspace-string-compare](https://github.com/PrajwalKundar-2004/Leetcode-Solutions/tree/master/0844-backspace-string-compare) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/PrajwalKundar-2004/Leetcode-Solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Floyd's Cycle Finding Algorithm
@@ -294,6 +298,7 @@ Feel free to reach out if you want to discuss algorithms, software engineering, 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/PrajwalKundar-2004/Leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
+| [0349-intersection-of-two-arrays](https://github.com/PrajwalKundar-2004/Leetcode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0451-sort-characters-by-frequency](https://github.com/PrajwalKundar-2004/Leetcode-Solutions/tree/master/0451-sort-characters-by-frequency) |
 ## Bucket Sort
 |  |
