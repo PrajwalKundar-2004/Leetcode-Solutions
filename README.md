@@ -84,6 +84,7 @@ Feel free to reach out if you want to discuss algorithms, software engineering, 
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/PrajwalKundar-2004/Leetcode-Solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/PrajwalKundar-2004/Leetcode-Solutions/tree/master/1870-minimum-speed-to-arrive-on-time) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/PrajwalKundar-2004/Leetcode-Solutions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/PrajwalKundar-2004/Leetcode-Solutions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/PrajwalKundar-2004/Leetcode-Solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3668-restore-finishing-order](https://github.com/PrajwalKundar-2004/Leetcode-Solutions/tree/master/3668-restore-finishing-order) |
 ## Binary Search
@@ -384,4 +385,8 @@ Feel free to reach out if you want to discuss algorithms, software engineering, 
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/PrajwalKundar-2004/Leetcode-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/PrajwalKundar-2004/Leetcode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
+## Enumeration
+|  |
+| ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/PrajwalKundar-2004/Leetcode-Solutions/tree/master/2778-sum-of-squares-of-special-elements) |
 <!---LeetCode Topics End-->
