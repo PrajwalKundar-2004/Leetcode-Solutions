@@ -80,6 +80,7 @@ Feel free to reach out if you want to discuss algorithms, software engineering, 
 | [1019-next-greater-node-in-linked-list](https://github.com/PrajwalKundar-2004/Leetcode-Solutions/tree/master/1019-next-greater-node-in-linked-list) |
 | [1248-count-number-of-nice-subarrays](https://github.com/PrajwalKundar-2004/Leetcode-Solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1381-design-a-stack-with-increment-operation](https://github.com/PrajwalKundar-2004/Leetcode-Solutions/tree/master/1381-design-a-stack-with-increment-operation) |
+| [1512-number-of-good-pairs](https://github.com/PrajwalKundar-2004/Leetcode-Solutions/tree/master/1512-number-of-good-pairs) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/PrajwalKundar-2004/Leetcode-Solutions/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/PrajwalKundar-2004/Leetcode-Solutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/PrajwalKundar-2004/Leetcode-Solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
@@ -117,6 +118,7 @@ Feel free to reach out if you want to discuss algorithms, software engineering, 
 | [0974-subarray-sums-divisible-by-k](https://github.com/PrajwalKundar-2004/Leetcode-Solutions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0992-subarrays-with-k-different-integers](https://github.com/PrajwalKundar-2004/Leetcode-Solutions/tree/master/0992-subarrays-with-k-different-integers) |
 | [1248-count-number-of-nice-subarrays](https://github.com/PrajwalKundar-2004/Leetcode-Solutions/tree/master/1248-count-number-of-nice-subarrays) |
+| [1512-number-of-good-pairs](https://github.com/PrajwalKundar-2004/Leetcode-Solutions/tree/master/1512-number-of-good-pairs) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/PrajwalKundar-2004/Leetcode-Solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/PrajwalKundar-2004/Leetcode-Solutions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3668-restore-finishing-order](https://github.com/PrajwalKundar-2004/Leetcode-Solutions/tree/master/3668-restore-finishing-order) |
@@ -132,6 +134,7 @@ Feel free to reach out if you want to discuss algorithms, software engineering, 
 | [0509-fibonacci-number](https://github.com/PrajwalKundar-2004/Leetcode-Solutions/tree/master/0509-fibonacci-number) |
 | [0523-continuous-subarray-sum](https://github.com/PrajwalKundar-2004/Leetcode-Solutions/tree/master/0523-continuous-subarray-sum) |
 | [1248-count-number-of-nice-subarrays](https://github.com/PrajwalKundar-2004/Leetcode-Solutions/tree/master/1248-count-number-of-nice-subarrays) |
+| [1512-number-of-good-pairs](https://github.com/PrajwalKundar-2004/Leetcode-Solutions/tree/master/1512-number-of-good-pairs) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/PrajwalKundar-2004/Leetcode-Solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3945-digit-frequency-score](https://github.com/PrajwalKundar-2004/Leetcode-Solutions/tree/master/3945-digit-frequency-score) |
 ## Sliding Window
@@ -321,6 +324,7 @@ Feel free to reach out if you want to discuss algorithms, software engineering, 
 | [0347-top-k-frequent-elements](https://github.com/PrajwalKundar-2004/Leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/PrajwalKundar-2004/Leetcode-Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0992-subarrays-with-k-different-integers](https://github.com/PrajwalKundar-2004/Leetcode-Solutions/tree/master/0992-subarrays-with-k-different-integers) |
+| [1512-number-of-good-pairs](https://github.com/PrajwalKundar-2004/Leetcode-Solutions/tree/master/1512-number-of-good-pairs) |
 ## Quickselect
 |  |
 | ------- |
