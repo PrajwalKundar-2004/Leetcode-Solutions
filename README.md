@@ -85,6 +85,7 @@ Feel free to reach out if you want to discuss algorithms, software engineering, 
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/PrajwalKundar-2004/Leetcode-Solutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/PrajwalKundar-2004/Leetcode-Solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/PrajwalKundar-2004/Leetcode-Solutions/tree/master/1870-minimum-speed-to-arrive-on-time) |
+| [2023-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/PrajwalKundar-2004/Leetcode-Solutions/tree/master/2023-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/PrajwalKundar-2004/Leetcode-Solutions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/PrajwalKundar-2004/Leetcode-Solutions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/PrajwalKundar-2004/Leetcode-Solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
@@ -120,6 +121,7 @@ Feel free to reach out if you want to discuss algorithms, software engineering, 
 | [1248-count-number-of-nice-subarrays](https://github.com/PrajwalKundar-2004/Leetcode-Solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1512-number-of-good-pairs](https://github.com/PrajwalKundar-2004/Leetcode-Solutions/tree/master/1512-number-of-good-pairs) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/PrajwalKundar-2004/Leetcode-Solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [2023-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/PrajwalKundar-2004/Leetcode-Solutions/tree/master/2023-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/PrajwalKundar-2004/Leetcode-Solutions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3668-restore-finishing-order](https://github.com/PrajwalKundar-2004/Leetcode-Solutions/tree/master/3668-restore-finishing-order) |
 | [3945-digit-frequency-score](https://github.com/PrajwalKundar-2004/Leetcode-Solutions/tree/master/3945-digit-frequency-score) |
@@ -231,6 +233,7 @@ Feel free to reach out if you want to discuss algorithms, software engineering, 
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/PrajwalKundar-2004/Leetcode-Solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1544-make-the-string-great](https://github.com/PrajwalKundar-2004/Leetcode-Solutions/tree/master/1544-make-the-string-great) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/PrajwalKundar-2004/Leetcode-Solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [2023-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/PrajwalKundar-2004/Leetcode-Solutions/tree/master/2023-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/PrajwalKundar-2004/Leetcode-Solutions/tree/master/2696-minimum-string-length-after-removing-substrings) |
 ## Queue
 |  |
@@ -325,6 +328,7 @@ Feel free to reach out if you want to discuss algorithms, software engineering, 
 | [0451-sort-characters-by-frequency](https://github.com/PrajwalKundar-2004/Leetcode-Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0992-subarrays-with-k-different-integers](https://github.com/PrajwalKundar-2004/Leetcode-Solutions/tree/master/0992-subarrays-with-k-different-integers) |
 | [1512-number-of-good-pairs](https://github.com/PrajwalKundar-2004/Leetcode-Solutions/tree/master/1512-number-of-good-pairs) |
+| [2023-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/PrajwalKundar-2004/Leetcode-Solutions/tree/master/2023-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
 ## Quickselect
 |  |
 | ------- |
