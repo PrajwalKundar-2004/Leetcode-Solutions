@@ -138,6 +138,7 @@ Feel free to reach out if you want to discuss algorithms, software engineering, 
 | [0445-add-two-numbers-ii](https://github.com/PrajwalKundar-2004/Leetcode-Solutions/tree/master/0445-add-two-numbers-ii) |
 | [0509-fibonacci-number](https://github.com/PrajwalKundar-2004/Leetcode-Solutions/tree/master/0509-fibonacci-number) |
 | [0523-continuous-subarray-sum](https://github.com/PrajwalKundar-2004/Leetcode-Solutions/tree/master/0523-continuous-subarray-sum) |
+| [0866-prime-palindrome](https://github.com/PrajwalKundar-2004/Leetcode-Solutions/tree/master/0866-prime-palindrome) |
 | [1248-count-number-of-nice-subarrays](https://github.com/PrajwalKundar-2004/Leetcode-Solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1512-number-of-good-pairs](https://github.com/PrajwalKundar-2004/Leetcode-Solutions/tree/master/1512-number-of-good-pairs) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/PrajwalKundar-2004/Leetcode-Solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -415,4 +416,12 @@ Feel free to reach out if you want to discuss algorithms, software engineering, 
 |  |
 | ------- |
 | [2778-sum-of-squares-of-special-elements](https://github.com/PrajwalKundar-2004/Leetcode-Solutions/tree/master/2778-sum-of-squares-of-special-elements) |
+## Number Theory
+|  |
+| ------- |
+| [0866-prime-palindrome](https://github.com/PrajwalKundar-2004/Leetcode-Solutions/tree/master/0866-prime-palindrome) |
+## Primality Test
+|  |
+| ------- |
+| [0866-prime-palindrome](https://github.com/PrajwalKundar-2004/Leetcode-Solutions/tree/master/0866-prime-palindrome) |
 <!---LeetCode Topics End-->
