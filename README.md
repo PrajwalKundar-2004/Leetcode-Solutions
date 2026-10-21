@@ -60,6 +60,7 @@ Feel free to reach out if you want to discuss algorithms, software engineering, 
 | [0074-search-a-2d-matrix](https://github.com/PrajwalKundar-2004/Leetcode-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0137-single-number-ii](https://github.com/PrajwalKundar-2004/Leetcode-Solutions/tree/master/0137-single-number-ii) |
 | [0152-maximum-product-subarray](https://github.com/PrajwalKundar-2004/Leetcode-Solutions/tree/master/0152-maximum-product-subarray) |
+| [0189-rotate-array](https://github.com/PrajwalKundar-2004/Leetcode-Solutions/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/PrajwalKundar-2004/Leetcode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0239-sliding-window-maximum](https://github.com/PrajwalKundar-2004/Leetcode-Solutions/tree/master/0239-sliding-window-maximum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/PrajwalKundar-2004/Leetcode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
@@ -134,6 +135,7 @@ Feel free to reach out if you want to discuss algorithms, software engineering, 
 | [0002-add-two-numbers](https://github.com/PrajwalKundar-2004/Leetcode-Solutions/tree/master/0002-add-two-numbers) |
 | [0062-unique-paths](https://github.com/PrajwalKundar-2004/Leetcode-Solutions/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/PrajwalKundar-2004/Leetcode-Solutions/tree/master/0070-climbing-stairs) |
+| [0189-rotate-array](https://github.com/PrajwalKundar-2004/Leetcode-Solutions/tree/master/0189-rotate-array) |
 | [0342-power-of-four](https://github.com/PrajwalKundar-2004/Leetcode-Solutions/tree/master/0342-power-of-four) |
 | [0445-add-two-numbers-ii](https://github.com/PrajwalKundar-2004/Leetcode-Solutions/tree/master/0445-add-two-numbers-ii) |
 | [0509-fibonacci-number](https://github.com/PrajwalKundar-2004/Leetcode-Solutions/tree/master/0509-fibonacci-number) |
@@ -300,6 +302,7 @@ Feel free to reach out if you want to discuss algorithms, software engineering, 
 | [0141-linked-list-cycle](https://github.com/PrajwalKundar-2004/Leetcode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/PrajwalKundar-2004/Leetcode-Solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/PrajwalKundar-2004/Leetcode-Solutions/tree/master/0160-intersection-of-two-linked-lists) |
+| [0189-rotate-array](https://github.com/PrajwalKundar-2004/Leetcode-Solutions/tree/master/0189-rotate-array) |
 | [0349-intersection-of-two-arrays](https://github.com/PrajwalKundar-2004/Leetcode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0844-backspace-string-compare](https://github.com/PrajwalKundar-2004/Leetcode-Solutions/tree/master/0844-backspace-string-compare) |
 | [0977-squares-of-a-sorted-array](https://github.com/PrajwalKundar-2004/Leetcode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
