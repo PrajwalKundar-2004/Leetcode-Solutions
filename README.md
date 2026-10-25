@@ -60,6 +60,7 @@ Feel free to reach out if you want to discuss algorithms, software engineering, 
 | [0074-search-a-2d-matrix](https://github.com/PrajwalKundar-2004/Leetcode-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0137-single-number-ii](https://github.com/PrajwalKundar-2004/Leetcode-Solutions/tree/master/0137-single-number-ii) |
 | [0152-maximum-product-subarray](https://github.com/PrajwalKundar-2004/Leetcode-Solutions/tree/master/0152-maximum-product-subarray) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/PrajwalKundar-2004/Leetcode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/PrajwalKundar-2004/Leetcode-Solutions/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/PrajwalKundar-2004/Leetcode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0239-sliding-window-maximum](https://github.com/PrajwalKundar-2004/Leetcode-Solutions/tree/master/0239-sliding-window-maximum) |
@@ -99,6 +100,7 @@ Feel free to reach out if you want to discuss algorithms, software engineering, 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/PrajwalKundar-2004/Leetcode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0074-search-a-2d-matrix](https://github.com/PrajwalKundar-2004/Leetcode-Solutions/tree/master/0074-search-a-2d-matrix) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/PrajwalKundar-2004/Leetcode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/PrajwalKundar-2004/Leetcode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/PrajwalKundar-2004/Leetcode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/PrajwalKundar-2004/Leetcode-Solutions/tree/master/0349-intersection-of-two-arrays) |
@@ -303,6 +305,7 @@ Feel free to reach out if you want to discuss algorithms, software engineering, 
 | [0141-linked-list-cycle](https://github.com/PrajwalKundar-2004/Leetcode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/PrajwalKundar-2004/Leetcode-Solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/PrajwalKundar-2004/Leetcode-Solutions/tree/master/0160-intersection-of-two-linked-lists) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/PrajwalKundar-2004/Leetcode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/PrajwalKundar-2004/Leetcode-Solutions/tree/master/0189-rotate-array) |
 | [0344-reverse-string](https://github.com/PrajwalKundar-2004/Leetcode-Solutions/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/PrajwalKundar-2004/Leetcode-Solutions/tree/master/0349-intersection-of-two-arrays) |
