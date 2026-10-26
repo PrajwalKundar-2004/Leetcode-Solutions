@@ -71,6 +71,7 @@ Feel free to reach out if you want to discuss algorithms, software engineering, 
 | [0523-continuous-subarray-sum](https://github.com/PrajwalKundar-2004/Leetcode-Solutions/tree/master/0523-continuous-subarray-sum) |
 | [0622-design-circular-queue](https://github.com/PrajwalKundar-2004/Leetcode-Solutions/tree/master/0622-design-circular-queue) |
 | [0641-design-circular-deque](https://github.com/PrajwalKundar-2004/Leetcode-Solutions/tree/master/0641-design-circular-deque) |
+| [0704-binary-search](https://github.com/PrajwalKundar-2004/Leetcode-Solutions/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/PrajwalKundar-2004/Leetcode-Solutions/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/PrajwalKundar-2004/Leetcode-Solutions/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/PrajwalKundar-2004/Leetcode-Solutions/tree/master/0739-daily-temperatures) |
@@ -104,6 +105,7 @@ Feel free to reach out if you want to discuss algorithms, software engineering, 
 | [0209-minimum-size-subarray-sum](https://github.com/PrajwalKundar-2004/Leetcode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/PrajwalKundar-2004/Leetcode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/PrajwalKundar-2004/Leetcode-Solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0704-binary-search](https://github.com/PrajwalKundar-2004/Leetcode-Solutions/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/PrajwalKundar-2004/Leetcode-Solutions/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/PrajwalKundar-2004/Leetcode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/PrajwalKundar-2004/Leetcode-Solutions/tree/master/1870-minimum-speed-to-arrive-on-time) |
