@@ -105,6 +105,7 @@ Feel free to reach out if you want to discuss algorithms, software engineering, 
 | [0209-minimum-size-subarray-sum](https://github.com/PrajwalKundar-2004/Leetcode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/PrajwalKundar-2004/Leetcode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/PrajwalKundar-2004/Leetcode-Solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0367-valid-perfect-square](https://github.com/PrajwalKundar-2004/Leetcode-Solutions/tree/master/0367-valid-perfect-square) |
 | [0704-binary-search](https://github.com/PrajwalKundar-2004/Leetcode-Solutions/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/PrajwalKundar-2004/Leetcode-Solutions/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/PrajwalKundar-2004/Leetcode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
@@ -141,6 +142,7 @@ Feel free to reach out if you want to discuss algorithms, software engineering, 
 | [0070-climbing-stairs](https://github.com/PrajwalKundar-2004/Leetcode-Solutions/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/PrajwalKundar-2004/Leetcode-Solutions/tree/master/0189-rotate-array) |
 | [0342-power-of-four](https://github.com/PrajwalKundar-2004/Leetcode-Solutions/tree/master/0342-power-of-four) |
+| [0367-valid-perfect-square](https://github.com/PrajwalKundar-2004/Leetcode-Solutions/tree/master/0367-valid-perfect-square) |
 | [0445-add-two-numbers-ii](https://github.com/PrajwalKundar-2004/Leetcode-Solutions/tree/master/0445-add-two-numbers-ii) |
 | [0509-fibonacci-number](https://github.com/PrajwalKundar-2004/Leetcode-Solutions/tree/master/0509-fibonacci-number) |
 | [0523-continuous-subarray-sum](https://github.com/PrajwalKundar-2004/Leetcode-Solutions/tree/master/0523-continuous-subarray-sum) |
