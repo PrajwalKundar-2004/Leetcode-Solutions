@@ -83,6 +83,7 @@ Feel free to reach out if you want to discuss algorithms, software engineering, 
 | [1004-max-consecutive-ones-iii](https://github.com/PrajwalKundar-2004/Leetcode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1019-next-greater-node-in-linked-list](https://github.com/PrajwalKundar-2004/Leetcode-Solutions/tree/master/1019-next-greater-node-in-linked-list) |
 | [1248-count-number-of-nice-subarrays](https://github.com/PrajwalKundar-2004/Leetcode-Solutions/tree/master/1248-count-number-of-nice-subarrays) |
+| [1267-count-servers-that-communicate](https://github.com/PrajwalKundar-2004/Leetcode-Solutions/tree/master/1267-count-servers-that-communicate) |
 | [1381-design-a-stack-with-increment-operation](https://github.com/PrajwalKundar-2004/Leetcode-Solutions/tree/master/1381-design-a-stack-with-increment-operation) |
 | [1512-number-of-good-pairs](https://github.com/PrajwalKundar-2004/Leetcode-Solutions/tree/master/1512-number-of-good-pairs) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/PrajwalKundar-2004/Leetcode-Solutions/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
@@ -346,6 +347,7 @@ Feel free to reach out if you want to discuss algorithms, software engineering, 
 | [0347-top-k-frequent-elements](https://github.com/PrajwalKundar-2004/Leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/PrajwalKundar-2004/Leetcode-Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0992-subarrays-with-k-different-integers](https://github.com/PrajwalKundar-2004/Leetcode-Solutions/tree/master/0992-subarrays-with-k-different-integers) |
+| [1267-count-servers-that-communicate](https://github.com/PrajwalKundar-2004/Leetcode-Solutions/tree/master/1267-count-servers-that-communicate) |
 | [1512-number-of-good-pairs](https://github.com/PrajwalKundar-2004/Leetcode-Solutions/tree/master/1512-number-of-good-pairs) |
 | [2023-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/PrajwalKundar-2004/Leetcode-Solutions/tree/master/2023-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
 ## Quickselect
@@ -424,6 +426,7 @@ Feel free to reach out if you want to discuss algorithms, software engineering, 
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/PrajwalKundar-2004/Leetcode-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/PrajwalKundar-2004/Leetcode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
+| [1267-count-servers-that-communicate](https://github.com/PrajwalKundar-2004/Leetcode-Solutions/tree/master/1267-count-servers-that-communicate) |
 ## Enumeration
 |  |
 | ------- |
@@ -436,4 +439,16 @@ Feel free to reach out if you want to discuss algorithms, software engineering, 
 |  |
 | ------- |
 | [0866-prime-palindrome](https://github.com/PrajwalKundar-2004/Leetcode-Solutions/tree/master/0866-prime-palindrome) |
+## Depth-First Search
+|  |
+| ------- |
+| [1267-count-servers-that-communicate](https://github.com/PrajwalKundar-2004/Leetcode-Solutions/tree/master/1267-count-servers-that-communicate) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1267-count-servers-that-communicate](https://github.com/PrajwalKundar-2004/Leetcode-Solutions/tree/master/1267-count-servers-that-communicate) |
+## Union-Find
+|  |
+| ------- |
+| [1267-count-servers-that-communicate](https://github.com/PrajwalKundar-2004/Leetcode-Solutions/tree/master/1267-count-servers-that-communicate) |
 <!---LeetCode Topics End-->
