@@ -71,6 +71,7 @@ Feel free to reach out if you want to discuss algorithms, software engineering, 
 | [0523-continuous-subarray-sum](https://github.com/PrajwalKundar-2004/Leetcode-Solutions/tree/master/0523-continuous-subarray-sum) |
 | [0622-design-circular-queue](https://github.com/PrajwalKundar-2004/Leetcode-Solutions/tree/master/0622-design-circular-queue) |
 | [0641-design-circular-deque](https://github.com/PrajwalKundar-2004/Leetcode-Solutions/tree/master/0641-design-circular-deque) |
+| [0643-maximum-average-subarray-i](https://github.com/PrajwalKundar-2004/Leetcode-Solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/PrajwalKundar-2004/Leetcode-Solutions/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/PrajwalKundar-2004/Leetcode-Solutions/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/PrajwalKundar-2004/Leetcode-Solutions/tree/master/0724-find-pivot-index) |
@@ -161,6 +162,7 @@ Feel free to reach out if you want to discuss algorithms, software engineering, 
 | [0003-longest-substring-without-repeating-characters](https://github.com/PrajwalKundar-2004/Leetcode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/PrajwalKundar-2004/Leetcode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0239-sliding-window-maximum](https://github.com/PrajwalKundar-2004/Leetcode-Solutions/tree/master/0239-sliding-window-maximum) |
+| [0643-maximum-average-subarray-i](https://github.com/PrajwalKundar-2004/Leetcode-Solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/PrajwalKundar-2004/Leetcode-Solutions/tree/master/0713-subarray-product-less-than-k) |
 | [0904-fruit-into-baskets](https://github.com/PrajwalKundar-2004/Leetcode-Solutions/tree/master/0904-fruit-into-baskets) |
 | [0992-subarrays-with-k-different-integers](https://github.com/PrajwalKundar-2004/Leetcode-Solutions/tree/master/0992-subarrays-with-k-different-integers) |
