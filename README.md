@@ -157,6 +157,7 @@ Feel free to reach out if you want to discuss algorithms, software engineering, 
 | [1248-count-number-of-nice-subarrays](https://github.com/PrajwalKundar-2004/Leetcode-Solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1512-number-of-good-pairs](https://github.com/PrajwalKundar-2004/Leetcode-Solutions/tree/master/1512-number-of-good-pairs) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/PrajwalKundar-2004/Leetcode-Solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/PrajwalKundar-2004/Leetcode-Solutions/tree/master/3789-minimum-cost-to-acquire-required-items) |
 | [3945-digit-frequency-score](https://github.com/PrajwalKundar-2004/Leetcode-Solutions/tree/master/3945-digit-frequency-score) |
 ## Sliding Window
 |  |
@@ -371,6 +372,7 @@ Feel free to reach out if you want to discuss algorithms, software engineering, 
 | [0678-valid-parenthesis-string](https://github.com/PrajwalKundar-2004/Leetcode-Solutions/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/PrajwalKundar-2004/Leetcode-Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/PrajwalKundar-2004/Leetcode-Solutions/tree/master/2333-minimum-sum-of-squared-difference) |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/PrajwalKundar-2004/Leetcode-Solutions/tree/master/3789-minimum-cost-to-acquire-required-items) |
 ## Bracket Sequences
 |  |
 | ------- |
