@@ -261,6 +261,7 @@ Feel free to reach out if you want to discuss algorithms, software engineering, 
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/PrajwalKundar-2004/Leetcode-Solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2023-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/PrajwalKundar-2004/Leetcode-Solutions/tree/master/2023-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/PrajwalKundar-2004/Leetcode-Solutions/tree/master/2696-minimum-string-length-after-removing-substrings) |
+| [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/PrajwalKundar-2004/Leetcode-Solutions/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
 ## Queue
 |  |
 | ------- |
